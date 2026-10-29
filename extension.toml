@@ -1,0 +1,14 @@
+# A behaviour: guidance only, no process. How an agent edits video well in DaVinci Resolve with ElevenLabs, and how to
+# set both extensions up.
+
+[extension]
+id = "videoedit"
+name = "Video editing harness"
+version = "0.1.0"
+publisher = "jamescalam"
+summary = "How an agent edits video well: cut from a word-level transcript, one plan the model writes, pictures only at decision points, a check after every change. Plus setup for the Resolve and ElevenLabs extensions."
+
+[behavior]
+skill = "SKILL.md"
+clients = ["claude", "codex", "gemini"]
+files = ["references"]
