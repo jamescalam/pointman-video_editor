@@ -2,7 +2,7 @@
 # set both extensions up.
 
 [extension]
-id = "videoedit"
+id = "video-editor"
 name = "Video editing harness"
 version = "0.1.0"
 publisher = "jamescalam"

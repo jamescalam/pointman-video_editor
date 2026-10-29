@@ -1,5 +1,5 @@
 ---
-name: videoedit
+name: video-editor
 description: Best practice for an agent editing video (cut from a transcript, edit by plan, check at decision points) with the Resolve and ElevenLabs extensions, and how to set them up. Use it when asked to edit, cut, clean up or review a video, or to set up video editing on a machine.
 ---
 
