@@ -2,8 +2,8 @@
 # set both extensions up.
 
 [extension]
-id = "video-editor"
-name = "Video editing harness"
+id = "video_editor"
+name = "Video editor"
 version = "0.1.0"
 publisher = "jamescalam"
 summary = "How an agent edits video well: cut from a word-level transcript, one plan the model writes, pictures only at decision points, a check after every change. Plus setup for the Resolve and ElevenLabs extensions."
